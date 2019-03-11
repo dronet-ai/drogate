@@ -1,2 +1,2 @@
-# drogate
-DroGate : Lightweight Real-Time Drone Perception System
+# DroGate : Lightweight Real-Time Drone Perception System
+
