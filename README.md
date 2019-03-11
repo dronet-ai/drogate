@@ -30,6 +30,10 @@ And also some librairies : numpy, python-wget, zipfile, json.
 
 To (re) train your own Drogate, just follow instructions of [Drogate_Training](Training_Drogate.ipynb) notebook.
 
+# Technical details
+
+Incoming !
+
 # Related Publications
 
 Incoming !
