@@ -8,14 +8,14 @@ The aim of this code is to complete the selection of the Lockheed Martin's Drone
 
 The Alpha Pilot qualification evaluates team's skills in both Computer Vision and Machine Learning, by predicting gate locations on images :
 
-[Gates prediction for Drone Race](images/gate_location.png)
+![](https://i.ibb.co/rM0yK6H/gate-location.png)
 
 # Architecture
 
 DroGate is built on the efficient ResNet-based architecture. The convolution stage of the architecture consists of a fast ResNet-8 with 3 residual blocks, followed by dropout and ReLU non-linearity.
 The extracted features are then processed by two separates multilayer perceptrons to predict gate locations and their confidence score :
 
-[Network architecture](images/network.png)
+![](https://i.ibb.co/0mFMVc4/network.png)
 
 # Requirements
 
