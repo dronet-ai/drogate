@@ -4,6 +4,8 @@
 
 **11 Mars 2019**: Submit the code according to Alpha-Pilot deadline.
 
+**10 May 2019**: Add technical report
+
 The aim of this code is to complete the selection of the Lockheed Martin's Drone Race "Alpha Pilot" (https://www.herox.com/alphapilot/77-test-2) but can be used for another applications by using Transfer Learning. 
 
 The Alpha Pilot qualification evaluates team's skills in both Computer Vision and Machine Learning, by predicting gate locations on images :
@@ -32,9 +34,16 @@ To (re) train your own Drogate, just follow instructions of [Drogate_Training](T
 
 # Technical details
 
-Incoming !
+Please read following article : [DroGate, a Lightweight Real-Time Drone Perception System](./DroGate%2C%20%20a%20Lightweight%20Real-Time%20Drone%20Perception%20System.pdf)
 
 # Related Publications
 
-Incoming !
+If you use of our code or our report in your project , please cite :
+
+     @article{Drogate,
+      title={{Drogate}: a Lightweight Real-Time Drone Perception System},
+      author={Zeryab Moussaoui and al.},
+      journal={Github},
+      year={2019}
+     }
 
